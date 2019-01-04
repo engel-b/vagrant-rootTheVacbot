@@ -1,0 +1,5 @@
+1. ensure ssh key exists in /vagrant
+2. edit properties.conf
+3. run /vagrant/online.sh
+4. change to vacbot wifi
+5. run /vagrant/offline.sh
